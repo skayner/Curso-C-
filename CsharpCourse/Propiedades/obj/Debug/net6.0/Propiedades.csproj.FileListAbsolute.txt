@@ -1,0 +1,14 @@
+C:\Users\manue\source\repos\Propiedades\bin\Debug\net6.0\Propiedades.exe
+C:\Users\manue\source\repos\Propiedades\bin\Debug\net6.0\Propiedades.deps.json
+C:\Users\manue\source\repos\Propiedades\bin\Debug\net6.0\Propiedades.runtimeconfig.json
+C:\Users\manue\source\repos\Propiedades\bin\Debug\net6.0\Propiedades.dll
+C:\Users\manue\source\repos\Propiedades\bin\Debug\net6.0\Propiedades.pdb
+C:\Users\manue\source\repos\Propiedades\obj\Debug\net6.0\Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\Propiedades\obj\Debug\net6.0\Propiedades.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\Propiedades\obj\Debug\net6.0\Propiedades.AssemblyInfo.cs
+C:\Users\manue\source\repos\Propiedades\obj\Debug\net6.0\Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\Propiedades\obj\Debug\net6.0\Propiedades.dll
+C:\Users\manue\source\repos\Propiedades\obj\Debug\net6.0\refint\Propiedades.dll
+C:\Users\manue\source\repos\Propiedades\obj\Debug\net6.0\Propiedades.pdb
+C:\Users\manue\source\repos\Propiedades\obj\Debug\net6.0\Propiedades.genruntimeconfig.cache
+C:\Users\manue\source\repos\Propiedades\obj\Debug\net6.0\ref\Propiedades.dll

@@ -1,0 +1,56 @@
+C:\Users\manue\source\repos\LINQ\bin\Debug\net7.0\LINQ.exe
+C:\Users\manue\source\repos\LINQ\bin\Debug\net7.0\LINQ.deps.json
+C:\Users\manue\source\repos\LINQ\bin\Debug\net7.0\LINQ.runtimeconfig.json
+C:\Users\manue\source\repos\LINQ\bin\Debug\net7.0\LINQ.dll
+C:\Users\manue\source\repos\LINQ\bin\Debug\net7.0\LINQ.pdb
+C:\Users\manue\source\repos\LINQ\obj\Debug\net7.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\LINQ\obj\Debug\net7.0\LINQ.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\LINQ\obj\Debug\net7.0\LINQ.AssemblyInfo.cs
+C:\Users\manue\source\repos\LINQ\obj\Debug\net7.0\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\LINQ\obj\Debug\net7.0\LINQ.dll
+C:\Users\manue\source\repos\LINQ\obj\Debug\net7.0\refint\LINQ.dll
+C:\Users\manue\source\repos\LINQ\obj\Debug\net7.0\LINQ.pdb
+C:\Users\manue\source\repos\LINQ\obj\Debug\net7.0\LINQ.genruntimeconfig.cache
+C:\Users\manue\source\repos\LINQ\obj\Debug\net7.0\ref\LINQ.dll
+H:\Mi unidad\source\repos\LINQ\bin\Debug\net7.0\LINQ.exe
+H:\Mi unidad\source\repos\LINQ\bin\Debug\net7.0\LINQ.deps.json
+H:\Mi unidad\source\repos\LINQ\bin\Debug\net7.0\LINQ.runtimeconfig.json
+H:\Mi unidad\source\repos\LINQ\bin\Debug\net7.0\LINQ.dll
+H:\Mi unidad\source\repos\LINQ\bin\Debug\net7.0\LINQ.pdb
+H:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\LINQ.AssemblyInfoInputs.cache
+H:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\LINQ.AssemblyInfo.cs
+H:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\LINQ.csproj.CoreCompileInputs.cache
+H:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\LINQ.dll
+H:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\refint\LINQ.dll
+H:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\LINQ.pdb
+H:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\LINQ.genruntimeconfig.cache
+H:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\ref\LINQ.dll
+G:\Mi unidad\source\repos\LINQ\bin\Debug\net7.0\LINQ.exe
+G:\Mi unidad\source\repos\LINQ\bin\Debug\net7.0\LINQ.deps.json
+G:\Mi unidad\source\repos\LINQ\bin\Debug\net7.0\LINQ.runtimeconfig.json
+G:\Mi unidad\source\repos\LINQ\bin\Debug\net7.0\LINQ.dll
+G:\Mi unidad\source\repos\LINQ\bin\Debug\net7.0\LINQ.pdb
+G:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\LINQ.AssemblyInfoInputs.cache
+G:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\LINQ.AssemblyInfo.cs
+G:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\LINQ.csproj.CoreCompileInputs.cache
+G:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\LINQ.dll
+G:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\refint\LINQ.dll
+G:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\LINQ.pdb
+G:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\LINQ.genruntimeconfig.cache
+G:\Mi unidad\source\repos\LINQ\obj\Debug\net7.0\ref\LINQ.dll
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ\bin\Debug\net7.0\LINQ.exe
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ\bin\Debug\net7.0\LINQ.deps.json
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ\bin\Debug\net7.0\LINQ.runtimeconfig.json
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ\bin\Debug\net7.0\LINQ.dll
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ\bin\Debug\net7.0\LINQ.pdb
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ\obj\Debug\net7.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ\obj\Debug\net7.0\LINQ.AssemblyInfoInputs.cache
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ\obj\Debug\net7.0\LINQ.AssemblyInfo.cs
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ\obj\Debug\net7.0\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ\obj\Debug\net7.0\LINQ.dll
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ\obj\Debug\net7.0\refint\LINQ.dll
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ\obj\Debug\net7.0\LINQ.pdb
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ\obj\Debug\net7.0\LINQ.genruntimeconfig.cache
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ\obj\Debug\net7.0\ref\LINQ.dll

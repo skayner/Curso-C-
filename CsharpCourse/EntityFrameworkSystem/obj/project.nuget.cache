@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZXLv0NHQQKg=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Manuel\\source\\repos\\CsharpCourse\\EntityFrameworkSystem\\EntityFrameworkSystem.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\Manuel\\source\\repos\\CsharpCourse\\BD\\BD.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\Manuel\\source\\repos\\CsharpCourse\\BD\\BD.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

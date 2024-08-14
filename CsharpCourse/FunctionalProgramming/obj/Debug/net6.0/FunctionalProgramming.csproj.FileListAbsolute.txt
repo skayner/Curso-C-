@@ -1,0 +1,35 @@
+G:\Mi unidad\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.AssemblyInfoInputs.cache
+G:\Mi unidad\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.AssemblyInfo.cs
+G:\Mi unidad\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+G:\Mi unidad\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.dll
+G:\Mi unidad\source\repos\FunctionalProgramming\obj\Debug\net6.0\refint\FunctionalProgramming.dll
+G:\Mi unidad\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.pdb
+H:\Mi unidad\source\repos\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.exe
+H:\Mi unidad\source\repos\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.deps.json
+H:\Mi unidad\source\repos\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.runtimeconfig.json
+H:\Mi unidad\source\repos\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.dll
+H:\Mi unidad\source\repos\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.pdb
+H:\Mi unidad\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mi unidad\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.AssemblyInfoInputs.cache
+H:\Mi unidad\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.AssemblyInfo.cs
+H:\Mi unidad\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+H:\Mi unidad\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.dll
+H:\Mi unidad\source\repos\FunctionalProgramming\obj\Debug\net6.0\refint\FunctionalProgramming.dll
+H:\Mi unidad\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.pdb
+H:\Mi unidad\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.genruntimeconfig.cache
+H:\Mi unidad\source\repos\FunctionalProgramming\obj\Debug\net6.0\ref\FunctionalProgramming.dll
+C:\Users\Manuel\source\repos\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.exe
+C:\Users\Manuel\source\repos\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.deps.json
+C:\Users\Manuel\source\repos\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.runtimeconfig.json
+C:\Users\Manuel\source\repos\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.dll
+C:\Users\Manuel\source\repos\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.pdb
+C:\Users\Manuel\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.AssemblyInfoInputs.cache
+C:\Users\Manuel\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.AssemblyInfo.cs
+C:\Users\Manuel\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.dll
+C:\Users\Manuel\source\repos\FunctionalProgramming\obj\Debug\net6.0\refint\FunctionalProgramming.dll
+C:\Users\Manuel\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.pdb
+C:\Users\Manuel\source\repos\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.genruntimeconfig.cache
+C:\Users\Manuel\source\repos\FunctionalProgramming\obj\Debug\net6.0\ref\FunctionalProgramming.dll

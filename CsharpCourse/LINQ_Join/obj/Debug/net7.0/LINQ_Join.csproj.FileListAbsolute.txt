@@ -1,0 +1,28 @@
+G:\Mi unidad\source\repos\LINQ_Join\bin\Debug\net7.0\LINQ_Join.exe
+G:\Mi unidad\source\repos\LINQ_Join\bin\Debug\net7.0\LINQ_Join.deps.json
+G:\Mi unidad\source\repos\LINQ_Join\bin\Debug\net7.0\LINQ_Join.runtimeconfig.json
+G:\Mi unidad\source\repos\LINQ_Join\bin\Debug\net7.0\LINQ_Join.dll
+G:\Mi unidad\source\repos\LINQ_Join\bin\Debug\net7.0\LINQ_Join.pdb
+G:\Mi unidad\source\repos\LINQ_Join\obj\Debug\net7.0\LINQ_Join.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\source\repos\LINQ_Join\obj\Debug\net7.0\LINQ_Join.AssemblyInfoInputs.cache
+G:\Mi unidad\source\repos\LINQ_Join\obj\Debug\net7.0\LINQ_Join.AssemblyInfo.cs
+G:\Mi unidad\source\repos\LINQ_Join\obj\Debug\net7.0\LINQ_Join.csproj.CoreCompileInputs.cache
+G:\Mi unidad\source\repos\LINQ_Join\obj\Debug\net7.0\LINQ_Join.dll
+G:\Mi unidad\source\repos\LINQ_Join\obj\Debug\net7.0\refint\LINQ_Join.dll
+G:\Mi unidad\source\repos\LINQ_Join\obj\Debug\net7.0\LINQ_Join.pdb
+G:\Mi unidad\source\repos\LINQ_Join\obj\Debug\net7.0\LINQ_Join.genruntimeconfig.cache
+G:\Mi unidad\source\repos\LINQ_Join\obj\Debug\net7.0\ref\LINQ_Join.dll
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\bin\Debug\net7.0\LINQ_Join.exe
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\bin\Debug\net7.0\LINQ_Join.deps.json
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\bin\Debug\net7.0\LINQ_Join.runtimeconfig.json
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\bin\Debug\net7.0\LINQ_Join.dll
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\bin\Debug\net7.0\LINQ_Join.pdb
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\obj\Debug\net7.0\LINQ_Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\obj\Debug\net7.0\LINQ_Join.AssemblyInfoInputs.cache
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\obj\Debug\net7.0\LINQ_Join.AssemblyInfo.cs
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\obj\Debug\net7.0\LINQ_Join.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\obj\Debug\net7.0\LINQ_Join.dll
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\obj\Debug\net7.0\refint\LINQ_Join.dll
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\obj\Debug\net7.0\LINQ_Join.pdb
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\obj\Debug\net7.0\LINQ_Join.genruntimeconfig.cache
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\obj\Debug\net7.0\ref\LINQ_Join.dll

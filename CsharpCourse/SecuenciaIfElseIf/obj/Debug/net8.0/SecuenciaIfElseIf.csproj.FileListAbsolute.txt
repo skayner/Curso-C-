@@ -1,0 +1,14 @@
+C:\Users\Manuel\source\repos\Variables\SecuenciaIfElseIf\bin\Debug\net8.0\SecuenciaIfElseIf.exe
+C:\Users\Manuel\source\repos\Variables\SecuenciaIfElseIf\bin\Debug\net8.0\SecuenciaIfElseIf.deps.json
+C:\Users\Manuel\source\repos\Variables\SecuenciaIfElseIf\bin\Debug\net8.0\SecuenciaIfElseIf.runtimeconfig.json
+C:\Users\Manuel\source\repos\Variables\SecuenciaIfElseIf\bin\Debug\net8.0\SecuenciaIfElseIf.dll
+C:\Users\Manuel\source\repos\Variables\SecuenciaIfElseIf\bin\Debug\net8.0\SecuenciaIfElseIf.pdb
+C:\Users\Manuel\source\repos\Variables\SecuenciaIfElseIf\obj\Debug\net8.0\SecuenciaIfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel\source\repos\Variables\SecuenciaIfElseIf\obj\Debug\net8.0\SecuenciaIfElseIf.AssemblyInfoInputs.cache
+C:\Users\Manuel\source\repos\Variables\SecuenciaIfElseIf\obj\Debug\net8.0\SecuenciaIfElseIf.AssemblyInfo.cs
+C:\Users\Manuel\source\repos\Variables\SecuenciaIfElseIf\obj\Debug\net8.0\SecuenciaIfElseIf.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\Variables\SecuenciaIfElseIf\obj\Debug\net8.0\SecuenciaIfElseIf.dll
+C:\Users\Manuel\source\repos\Variables\SecuenciaIfElseIf\obj\Debug\net8.0\refint\SecuenciaIfElseIf.dll
+C:\Users\Manuel\source\repos\Variables\SecuenciaIfElseIf\obj\Debug\net8.0\SecuenciaIfElseIf.pdb
+C:\Users\Manuel\source\repos\Variables\SecuenciaIfElseIf\obj\Debug\net8.0\SecuenciaIfElseIf.genruntimeconfig.cache
+C:\Users\Manuel\source\repos\Variables\SecuenciaIfElseIf\obj\Debug\net8.0\ref\SecuenciaIfElseIf.dll

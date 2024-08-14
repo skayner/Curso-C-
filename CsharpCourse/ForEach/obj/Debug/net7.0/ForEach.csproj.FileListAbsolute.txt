@@ -1,0 +1,49 @@
+C:\Users\manue\source\repos\ForEach\bin\Debug\net7.0\ForEach.exe
+C:\Users\manue\source\repos\ForEach\bin\Debug\net7.0\ForEach.deps.json
+C:\Users\manue\source\repos\ForEach\bin\Debug\net7.0\ForEach.runtimeconfig.json
+C:\Users\manue\source\repos\ForEach\bin\Debug\net7.0\ForEach.dll
+C:\Users\manue\source\repos\ForEach\bin\Debug\net7.0\ForEach.pdb
+C:\Users\manue\source\repos\ForEach\obj\Debug\net7.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\ForEach\obj\Debug\net7.0\ForEach.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\ForEach\obj\Debug\net7.0\ForEach.AssemblyInfo.cs
+C:\Users\manue\source\repos\ForEach\obj\Debug\net7.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\ForEach\obj\Debug\net7.0\ForEach.dll
+C:\Users\manue\source\repos\ForEach\obj\Debug\net7.0\refint\ForEach.dll
+C:\Users\manue\source\repos\ForEach\obj\Debug\net7.0\ForEach.pdb
+C:\Users\manue\source\repos\ForEach\obj\Debug\net7.0\ForEach.genruntimeconfig.cache
+C:\Users\manue\source\repos\ForEach\obj\Debug\net7.0\ref\ForEach.dll
+G:\Mi unidad\source\repos\ForEach\obj\Debug\net7.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\source\repos\ForEach\obj\Debug\net7.0\ForEach.AssemblyInfoInputs.cache
+G:\Mi unidad\source\repos\ForEach\obj\Debug\net7.0\ForEach.AssemblyInfo.cs
+G:\Mi unidad\source\repos\ForEach\obj\Debug\net7.0\ForEach.csproj.CoreCompileInputs.cache
+G:\Mi unidad\source\repos\ForEach\obj\Debug\net7.0\ForEach.dll
+G:\Mi unidad\source\repos\ForEach\obj\Debug\net7.0\refint\ForEach.dll
+G:\Mi unidad\source\repos\ForEach\obj\Debug\net7.0\ForEach.pdb
+H:\Mi unidad\source\repos\ForEach\bin\Debug\net7.0\ForEach.exe
+H:\Mi unidad\source\repos\ForEach\bin\Debug\net7.0\ForEach.deps.json
+H:\Mi unidad\source\repos\ForEach\bin\Debug\net7.0\ForEach.runtimeconfig.json
+H:\Mi unidad\source\repos\ForEach\bin\Debug\net7.0\ForEach.dll
+H:\Mi unidad\source\repos\ForEach\bin\Debug\net7.0\ForEach.pdb
+H:\Mi unidad\source\repos\ForEach\obj\Debug\net7.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mi unidad\source\repos\ForEach\obj\Debug\net7.0\ForEach.AssemblyInfoInputs.cache
+H:\Mi unidad\source\repos\ForEach\obj\Debug\net7.0\ForEach.AssemblyInfo.cs
+H:\Mi unidad\source\repos\ForEach\obj\Debug\net7.0\ForEach.csproj.CoreCompileInputs.cache
+H:\Mi unidad\source\repos\ForEach\obj\Debug\net7.0\ForEach.dll
+H:\Mi unidad\source\repos\ForEach\obj\Debug\net7.0\refint\ForEach.dll
+H:\Mi unidad\source\repos\ForEach\obj\Debug\net7.0\ForEach.pdb
+H:\Mi unidad\source\repos\ForEach\obj\Debug\net7.0\ForEach.genruntimeconfig.cache
+H:\Mi unidad\source\repos\ForEach\obj\Debug\net7.0\ref\ForEach.dll
+C:\Users\Manuel\source\repos\CsharpCourse\ForEach\bin\Debug\net7.0\ForEach.exe
+C:\Users\Manuel\source\repos\CsharpCourse\ForEach\bin\Debug\net7.0\ForEach.deps.json
+C:\Users\Manuel\source\repos\CsharpCourse\ForEach\bin\Debug\net7.0\ForEach.runtimeconfig.json
+C:\Users\Manuel\source\repos\CsharpCourse\ForEach\bin\Debug\net7.0\ForEach.dll
+C:\Users\Manuel\source\repos\CsharpCourse\ForEach\bin\Debug\net7.0\ForEach.pdb
+C:\Users\Manuel\source\repos\CsharpCourse\ForEach\obj\Debug\net7.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel\source\repos\CsharpCourse\ForEach\obj\Debug\net7.0\ForEach.AssemblyInfoInputs.cache
+C:\Users\Manuel\source\repos\CsharpCourse\ForEach\obj\Debug\net7.0\ForEach.AssemblyInfo.cs
+C:\Users\Manuel\source\repos\CsharpCourse\ForEach\obj\Debug\net7.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\CsharpCourse\ForEach\obj\Debug\net7.0\ForEach.dll
+C:\Users\Manuel\source\repos\CsharpCourse\ForEach\obj\Debug\net7.0\refint\ForEach.dll
+C:\Users\Manuel\source\repos\CsharpCourse\ForEach\obj\Debug\net7.0\ForEach.pdb
+C:\Users\Manuel\source\repos\CsharpCourse\ForEach\obj\Debug\net7.0\ForEach.genruntimeconfig.cache
+C:\Users\Manuel\source\repos\CsharpCourse\ForEach\obj\Debug\net7.0\ref\ForEach.dll
