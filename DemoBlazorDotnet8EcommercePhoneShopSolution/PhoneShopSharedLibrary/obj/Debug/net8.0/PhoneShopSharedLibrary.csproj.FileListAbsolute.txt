@@ -1,0 +1,12 @@
+E:\source\repos\DemoBlazorDotnet8EcommercePhoneShopSolution\PhoneShopSharedLibrary\bin\Debug\net8.0\PhoneShopSharedLibrary.deps.json
+E:\source\repos\DemoBlazorDotnet8EcommercePhoneShopSolution\PhoneShopSharedLibrary\bin\Debug\net8.0\PhoneShopSharedLibrary.dll
+E:\source\repos\DemoBlazorDotnet8EcommercePhoneShopSolution\PhoneShopSharedLibrary\bin\Debug\net8.0\PhoneShopSharedLibrary.pdb
+E:\source\repos\DemoBlazorDotnet8EcommercePhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\DemoBlazorDotnet8EcommercePhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.AssemblyInfoInputs.cache
+E:\source\repos\DemoBlazorDotnet8EcommercePhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.AssemblyInfo.cs
+E:\source\repos\DemoBlazorDotnet8EcommercePhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.csproj.CoreCompileInputs.cache
+E:\source\repos\DemoBlazorDotnet8EcommercePhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.sourcelink.json
+E:\source\repos\DemoBlazorDotnet8EcommercePhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.dll
+E:\source\repos\DemoBlazorDotnet8EcommercePhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\refint\PhoneShopSharedLibrary.dll
+E:\source\repos\DemoBlazorDotnet8EcommercePhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.pdb
+E:\source\repos\DemoBlazorDotnet8EcommercePhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\ref\PhoneShopSharedLibrary.dll

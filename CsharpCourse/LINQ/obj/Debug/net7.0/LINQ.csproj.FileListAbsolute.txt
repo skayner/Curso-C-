@@ -54,3 +54,4 @@ C:\Users\Manuel\source\repos\CsharpCourse\LINQ\obj\Debug\net7.0\refint\LINQ.dll
 C:\Users\Manuel\source\repos\CsharpCourse\LINQ\obj\Debug\net7.0\LINQ.pdb
 C:\Users\Manuel\source\repos\CsharpCourse\LINQ\obj\Debug\net7.0\LINQ.genruntimeconfig.cache
 C:\Users\Manuel\source\repos\CsharpCourse\LINQ\obj\Debug\net7.0\ref\LINQ.dll
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ\obj\Debug\net7.0\LINQ.sourcelink.json

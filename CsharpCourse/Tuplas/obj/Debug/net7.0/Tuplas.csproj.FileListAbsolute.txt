@@ -26,3 +26,4 @@ C:\Users\Manuel\source\repos\CsharpCourse\Tuplas\obj\Debug\net7.0\refint\Tuplas.
 C:\Users\Manuel\source\repos\CsharpCourse\Tuplas\obj\Debug\net7.0\Tuplas.pdb
 C:\Users\Manuel\source\repos\CsharpCourse\Tuplas\obj\Debug\net7.0\Tuplas.genruntimeconfig.cache
 C:\Users\Manuel\source\repos\CsharpCourse\Tuplas\obj\Debug\net7.0\ref\Tuplas.dll
+C:\Users\Manuel\source\repos\CsharpCourse\Tuplas\obj\Debug\net7.0\Tuplas.sourcelink.json

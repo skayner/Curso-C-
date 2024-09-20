@@ -47,3 +47,4 @@ C:\Users\Manuel\source\repos\CsharpCourse\ForEach\obj\Debug\net7.0\refint\ForEac
 C:\Users\Manuel\source\repos\CsharpCourse\ForEach\obj\Debug\net7.0\ForEach.pdb
 C:\Users\Manuel\source\repos\CsharpCourse\ForEach\obj\Debug\net7.0\ForEach.genruntimeconfig.cache
 C:\Users\Manuel\source\repos\CsharpCourse\ForEach\obj\Debug\net7.0\ref\ForEach.dll
+C:\Users\Manuel\source\repos\CsharpCourse\ForEach\obj\Debug\net7.0\ForEach.sourcelink.json

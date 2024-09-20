@@ -26,3 +26,4 @@ C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\obj\Debug\net7.0\refint\LINQ
 C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\obj\Debug\net7.0\LINQ_Join.pdb
 C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\obj\Debug\net7.0\LINQ_Join.genruntimeconfig.cache
 C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\obj\Debug\net7.0\ref\LINQ_Join.dll
+C:\Users\Manuel\source\repos\CsharpCourse\LINQ_Join\obj\Debug\net7.0\LINQ_Join.sourcelink.json

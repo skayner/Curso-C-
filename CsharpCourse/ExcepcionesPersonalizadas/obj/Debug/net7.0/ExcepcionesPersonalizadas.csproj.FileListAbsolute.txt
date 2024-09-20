@@ -26,3 +26,4 @@ C:\Users\Manuel\source\repos\CsharpCourse\ExcepcionesPersonalizadas\obj\Debug\ne
 C:\Users\Manuel\source\repos\CsharpCourse\ExcepcionesPersonalizadas\obj\Debug\net7.0\ExcepcionesPersonalizadas.pdb
 C:\Users\Manuel\source\repos\CsharpCourse\ExcepcionesPersonalizadas\obj\Debug\net7.0\ExcepcionesPersonalizadas.genruntimeconfig.cache
 C:\Users\Manuel\source\repos\CsharpCourse\ExcepcionesPersonalizadas\obj\Debug\net7.0\ref\ExcepcionesPersonalizadas.dll
+C:\Users\Manuel\source\repos\CsharpCourse\ExcepcionesPersonalizadas\obj\Debug\net7.0\ExcepcionesPersonalizadas.sourcelink.json

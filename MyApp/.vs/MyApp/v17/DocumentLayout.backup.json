@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manuel\\source\\repos\\MyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4941D0E-D2FE-4AFC-A870-2F940DA22BB5}|MyApp.Api\\MyApp.Api.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4941D0E-D2FE-4AFC-A870-2F940DA22BB5}|MyApp.Api\\MyApp.Api.csproj|solutionrelative:myapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4941D0E-D2FE-4AFC-A870-2F940DA22BB5}|MyApp.Api\\MyApp.Api.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4941D0E-D2FE-4AFC-A870-2F940DA22BB5}|MyApp.Api\\MyApp.Api.csproj|solutionrelative:myapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4941D0E-D2FE-4AFC-A870-2F940DA22BB5}|MyApp.Api\\MyApp.Api.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.api\\extensions\\resultextensions\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4941D0E-D2FE-4AFC-A870-2F940DA22BB5}|MyApp.Api\\MyApp.Api.csproj|solutionrelative:myapp.api\\extensions\\resultextensions\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\usecases\\products\\getproductbyid\\getproductbyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\usecases\\products\\getproductbyid\\getproductbyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33B97E1-606A-4031-9BCD-EAB9834AA6B1}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33B97E1-606A-4031-9BCD-EAB9834AA6B1}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\usecases\\products\\updateproduct\\updateproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\usecases\\products\\updateproduct\\updateproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\usecases\\products\\updateproduct\\updateproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\usecases\\products\\updateproduct\\updateproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\usecases\\products\\updateproduct\\updateproductrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\usecases\\products\\updateproduct\\updateproductrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\usecases\\products\\updateproduct\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\usecases\\products\\updateproduct\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\usecases\\products\\getproductbyid\\getproductbyidrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\usecases\\products\\getproductbyid\\getproductbyidrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\usecases\\products\\getproductbyid\\getproductbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\usecases\\products\\getproductbyid\\getproductbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\usecases\\products\\getallproducts\\getallproductsrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\usecases\\products\\getallproducts\\getallproductsrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\usecases\\products\\getallproducts\\getallproductsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\usecases\\products\\getallproducts\\getallproductsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\usecases\\products\\getallproducts\\getallproductsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\usecases\\products\\getallproducts\\getallproductsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\usecases\\products\\deleteproduct\\deleteproductrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\usecases\\products\\deleteproduct\\deleteproductrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\usecases\\products\\deleteproduct\\deleteproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\usecases\\products\\deleteproduct\\deleteproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\usecases\\products\\createproduct\\createproductrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\usecases\\products\\createproduct\\createproductrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\usecases\\products\\createproduct\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\usecases\\products\\createproduct\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\usecases\\products\\createproduct\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\usecases\\products\\createproduct\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\services\\internals\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\services\\internals\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.application\\dto\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E26F7-915D-452B-9968-330CE3130D94}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\dto\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4941D0E-D2FE-4AFC-A870-2F940DA22BB5}|MyApp.Api\\MyApp.Api.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4941D0E-D2FE-4AFC-A870-2F940DA22BB5}|MyApp.Api\\MyApp.Api.csproj|solutionrelative:myapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4941D0E-D2FE-4AFC-A870-2F940DA22BB5}|MyApp.Api\\MyApp.Api.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.api\\routes\\weatherforecastroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4941D0E-D2FE-4AFC-A870-2F940DA22BB5}|MyApp.Api\\MyApp.Api.csproj|solutionrelative:myapp.api\\routes\\weatherforecastroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4941D0E-D2FE-4AFC-A870-2F940DA22BB5}|MyApp.Api\\MyApp.Api.csproj|c:\\users\\manuel\\source\\repos\\myapp\\myapp.api\\routes\\productsroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4941D0E-D2FE-4AFC-A870-2F940DA22BB5}|MyApp.Api\\MyApp.Api.csproj|solutionrelative:myapp.api\\routes\\productsroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MyApp.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "MyApp.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:02:58.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\UpdateProduct\\UpdateProductValidator.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\UseCases\\Products\\UpdateProduct\\UpdateProductValidator.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\UpdateProduct\\UpdateProductValidator.cs",
+              "RelativeToolTip": "MyApp.Application\\UseCases\\Products\\UpdateProduct\\UpdateProductValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:58:40.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\UpdateProduct\\UpdateProductResponse.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\UseCases\\Products\\UpdateProduct\\UpdateProductResponse.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\UpdateProduct\\UpdateProductResponse.cs",
+              "RelativeToolTip": "MyApp.Application\\UseCases\\Products\\UpdateProduct\\UpdateProductResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:58:28.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateProductRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\UpdateProduct\\UpdateProductRequestHandler.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\UseCases\\Products\\UpdateProduct\\UpdateProductRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\UpdateProduct\\UpdateProductRequestHandler.cs",
+              "RelativeToolTip": "MyApp.Application\\UseCases\\Products\\UpdateProduct\\UpdateProductRequestHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:58:10.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\UpdateProduct\\UpdateProductRequest.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\UseCases\\Products\\UpdateProduct\\UpdateProductRequest.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\UpdateProduct\\UpdateProductRequest.cs",
+              "RelativeToolTip": "MyApp.Application\\UseCases\\Products\\UpdateProduct\\UpdateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:57:52.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetProductByIdResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\GetProductById\\GetProductByIdResponse.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\UseCases\\Products\\GetProductById\\GetProductByIdResponse.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\GetProductById\\GetProductByIdResponse.cs",
+              "RelativeToolTip": "MyApp.Application\\UseCases\\Products\\GetProductById\\GetProductByIdResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:56:14.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetProductByIdRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\GetProductById\\GetProductByIdRequestHandler.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\UseCases\\Products\\GetProductById\\GetProductByIdRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\GetProductById\\GetProductByIdRequestHandler.cs",
+              "RelativeToolTip": "MyApp.Application\\UseCases\\Products\\GetProductById\\GetProductByIdRequestHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:55:58.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetProductByIdRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\GetProductById\\GetProductByIdRequest.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\UseCases\\Products\\GetProductById\\GetProductByIdRequest.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\GetProductById\\GetProductByIdRequest.cs",
+              "RelativeToolTip": "MyApp.Application\\UseCases\\Products\\GetProductById\\GetProductByIdRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:55:31.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllProductsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\GetAllProducts\\GetAllProductsResponse.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\UseCases\\Products\\GetAllProducts\\GetAllProductsResponse.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\GetAllProducts\\GetAllProductsResponse.cs",
+              "RelativeToolTip": "MyApp.Application\\UseCases\\Products\\GetAllProducts\\GetAllProductsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:54:19.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllProductsRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\GetAllProducts\\GetAllProductsRequestHandler.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\UseCases\\Products\\GetAllProducts\\GetAllProductsRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\GetAllProducts\\GetAllProductsRequestHandler.cs",
+              "RelativeToolTip": "MyApp.Application\\UseCases\\Products\\GetAllProducts\\GetAllProductsRequestHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:53:24.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllProductsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\GetAllProducts\\GetAllProductsRequest.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\UseCases\\Products\\GetAllProducts\\GetAllProductsRequest.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\GetAllProducts\\GetAllProductsRequest.cs",
+              "RelativeToolTip": "MyApp.Application\\UseCases\\Products\\GetAllProducts\\GetAllProductsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:52:38.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteProductRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\DeleteProduct\\DeleteProductRequestHandler.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\UseCases\\Products\\DeleteProduct\\DeleteProductRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\DeleteProduct\\DeleteProductRequestHandler.cs",
+              "RelativeToolTip": "MyApp.Application\\UseCases\\Products\\DeleteProduct\\DeleteProductRequestHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:51:07.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\DeleteProduct\\DeleteProductValidator.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\UseCases\\Products\\DeleteProduct\\DeleteProductValidator.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\DeleteProduct\\DeleteProductValidator.cs",
+              "RelativeToolTip": "MyApp.Application\\UseCases\\Products\\DeleteProduct\\DeleteProductValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:50:23.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\CreateProduct\\CreateProductValidator.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\UseCases\\Products\\CreateProduct\\CreateProductValidator.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\CreateProduct\\CreateProductValidator.cs",
+              "RelativeToolTip": "MyApp.Application\\UseCases\\Products\\CreateProduct\\CreateProductValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:43:05.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateProductRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\CreateProduct\\CreateProductRequestHandler.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\UseCases\\Products\\CreateProduct\\CreateProductRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\CreateProduct\\CreateProductRequestHandler.cs",
+              "RelativeToolTip": "MyApp.Application\\UseCases\\Products\\CreateProduct\\CreateProductRequestHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:41:21.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\CreateProduct\\CreateProductRequest.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\UseCases\\Products\\CreateProduct\\CreateProductRequest.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\UseCases\\Products\\CreateProduct\\CreateProductRequest.cs",
+              "RelativeToolTip": "MyApp.Application\\UseCases\\Products\\CreateProduct\\CreateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:40:58.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecastService.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\Services\\Internals\\WeatherForecastService.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\Services\\Internals\\WeatherForecastService.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\Services\\Internals\\WeatherForecastService.cs",
+              "RelativeToolTip": "MyApp.Application\\Services\\Internals\\WeatherForecastService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:10:21.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\Dto\\Product\\ProductDto.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\Dto\\Product\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Application\\Dto\\Product\\ProductDto.cs",
+              "RelativeToolTip": "MyApp.Application\\Dto\\Product\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:09:07.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MyApp.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Api\\Program.cs",
+              "RelativeToolTip": "MyApp.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:02:40.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyApp.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Api\\appsettings.Development.json",
+              "RelativeToolTip": "MyApp.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T20:00:47.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MyApp.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Api\\appsettings.json",
+              "RelativeToolTip": "MyApp.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T20:00:29.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeatherForecastRoutes.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Api\\Routes\\WeatherForecastRoutes.cs",
+              "RelativeDocumentMoniker": "MyApp.Api\\Routes\\WeatherForecastRoutes.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Api\\Routes\\WeatherForecastRoutes.cs",
+              "RelativeToolTip": "MyApp.Api\\Routes\\WeatherForecastRoutes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:59:52.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductsRoutes.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Api\\Routes\\ProductsRoutes.cs",
+              "RelativeDocumentMoniker": "MyApp.Api\\Routes\\ProductsRoutes.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Api\\Routes\\ProductsRoutes.cs",
+              "RelativeToolTip": "MyApp.Api\\Routes\\ProductsRoutes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:45:30.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Api\\Extensions\\ResultExtensions\\ResultExtensions.cs",
+              "RelativeDocumentMoniker": "MyApp.Api\\Extensions\\ResultExtensions\\ResultExtensions.cs",
+              "ToolTip": "C:\\Users\\Manuel\\source\\repos\\MyApp\\MyApp.Api\\Extensions\\ResultExtensions\\ResultExtensions.cs",
+              "RelativeToolTip": "MyApp.Api\\Extensions\\ResultExtensions\\ResultExtensions.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:21:56.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

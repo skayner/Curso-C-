@@ -26,3 +26,4 @@ C:\Users\Manuel\source\repos\CsharpCourse\Lists\obj\Debug\net6.0\refint\Lists.dl
 C:\Users\Manuel\source\repos\CsharpCourse\Lists\obj\Debug\net6.0\Lists.pdb
 C:\Users\Manuel\source\repos\CsharpCourse\Lists\obj\Debug\net6.0\Lists.genruntimeconfig.cache
 C:\Users\Manuel\source\repos\CsharpCourse\Lists\obj\Debug\net6.0\ref\Lists.dll
+C:\Users\Manuel\source\repos\CsharpCourse\Lists\obj\Debug\net6.0\Lists.sourcelink.json

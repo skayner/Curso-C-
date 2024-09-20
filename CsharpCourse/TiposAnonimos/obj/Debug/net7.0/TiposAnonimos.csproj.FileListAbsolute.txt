@@ -26,3 +26,4 @@ C:\Users\Manuel\source\repos\CsharpCourse\TiposAnonimos\obj\Debug\net7.0\refint\
 C:\Users\Manuel\source\repos\CsharpCourse\TiposAnonimos\obj\Debug\net7.0\TiposAnonimos.pdb
 C:\Users\Manuel\source\repos\CsharpCourse\TiposAnonimos\obj\Debug\net7.0\TiposAnonimos.genruntimeconfig.cache
 C:\Users\Manuel\source\repos\CsharpCourse\TiposAnonimos\obj\Debug\net7.0\ref\TiposAnonimos.dll
+C:\Users\Manuel\source\repos\CsharpCourse\TiposAnonimos\obj\Debug\net7.0\TiposAnonimos.sourcelink.json

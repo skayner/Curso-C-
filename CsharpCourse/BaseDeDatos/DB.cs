@@ -12,10 +12,9 @@ namespace BaseDeDatos
         private string _connectionstring;
         protected SqlConnection _connection;
 
-        public DB(string server, string db, string user, string password)
+        public DB(string server, string db, string Trusted_Connection)
         {
-            _connectionstring = $"Data Source={server}; Initial Catalog = {db};" +
-                $"User = {user}; Password = {password}";
+            _connectionstring = $"Data Source={server}; Initial Catalog = {db}; Trusted_Connection = True;";
         }
 
         public void Connect()

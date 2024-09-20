@@ -26,3 +26,4 @@ C:\Users\Manuel\source\repos\CsharpCourse\Interfaces\obj\Debug\net6.0\refint\Int
 C:\Users\Manuel\source\repos\CsharpCourse\Interfaces\obj\Debug\net6.0\Interfaces.pdb
 C:\Users\Manuel\source\repos\CsharpCourse\Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache
 C:\Users\Manuel\source\repos\CsharpCourse\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll
+C:\Users\Manuel\source\repos\CsharpCourse\Interfaces\obj\Debug\net6.0\Interfaces.sourcelink.json

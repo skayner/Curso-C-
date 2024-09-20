@@ -11,7 +11,7 @@ namespace BaseDeDatos
         {
             try
             {
-                BeerDB beerDB = new BeerDB("LAPTOP-5FGQOQE5\TEW_SQLEXPRESS", "CsharpDB", "Manuel", "");
+                BeerDB beerDB = new BeerDB(@"LAPTOP-5FGQOQE5\TEW_SQLEXPRESS", "CsharpDB", "True");
                 bool again = true;
                 int op = 0;
 

@@ -26,3 +26,4 @@ C:\Users\Manuel\source\repos\CsharpCourse\Sobreescritura\obj\Debug\net6.0\refint
 C:\Users\Manuel\source\repos\CsharpCourse\Sobreescritura\obj\Debug\net6.0\Sobreescritura.pdb
 C:\Users\Manuel\source\repos\CsharpCourse\Sobreescritura\obj\Debug\net6.0\Sobreescritura.genruntimeconfig.cache
 C:\Users\Manuel\source\repos\CsharpCourse\Sobreescritura\obj\Debug\net6.0\ref\Sobreescritura.dll
+C:\Users\Manuel\source\repos\CsharpCourse\Sobreescritura\obj\Debug\net6.0\Sobreescritura.sourcelink.json

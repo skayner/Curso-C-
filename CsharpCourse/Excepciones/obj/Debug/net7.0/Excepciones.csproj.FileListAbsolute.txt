@@ -26,3 +26,4 @@ C:\Users\Manuel\source\repos\CsharpCourse\Excepciones\obj\Debug\net7.0\refint\Ex
 C:\Users\Manuel\source\repos\CsharpCourse\Excepciones\obj\Debug\net7.0\Excepciones.pdb
 C:\Users\Manuel\source\repos\CsharpCourse\Excepciones\obj\Debug\net7.0\Excepciones.genruntimeconfig.cache
 C:\Users\Manuel\source\repos\CsharpCourse\Excepciones\obj\Debug\net7.0\ref\Excepciones.dll
+C:\Users\Manuel\source\repos\CsharpCourse\Excepciones\obj\Debug\net7.0\Excepciones.sourcelink.json

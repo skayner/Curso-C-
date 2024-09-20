@@ -26,3 +26,4 @@ C:\Users\Manuel\source\repos\CsharpCourse\ListCommonMethods\obj\Debug\net7.0\ref
 C:\Users\Manuel\source\repos\CsharpCourse\ListCommonMethods\obj\Debug\net7.0\ListCommonMethods.pdb
 C:\Users\Manuel\source\repos\CsharpCourse\ListCommonMethods\obj\Debug\net7.0\ListCommonMethods.genruntimeconfig.cache
 C:\Users\Manuel\source\repos\CsharpCourse\ListCommonMethods\obj\Debug\net7.0\ref\ListCommonMethods.dll
+C:\Users\Manuel\source\repos\CsharpCourse\ListCommonMethods\obj\Debug\net7.0\ListCommonMethods.sourcelink.json

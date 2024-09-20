@@ -1,13 +1,13 @@
 ﻿
 Operation mySum = Functions.Sum;
 
-//Console.WriteLine(mySum(2, 3));
+Console.WriteLine(mySum(2, 3));
 mySum = Functions.Mul;
-//Console.WriteLine(mySum(2, 3));
+Console.WriteLine(mySum(2, 3));
 
 Show cw = Console.WriteLine;
 cw += Functions.ConsoleShow;
-//cw("Hola mundo");
+cw("Hola mundo");
 //Functions.Some("Juan", "Guevara", cw);
 
 
@@ -20,25 +20,25 @@ Action<string, string> showMessage2 = (a, b) => {
 };
 Action<string, string, string> showMessage3 = (a, b, c) => Console.WriteLine($"{a} {b} {c}");
 
-/*
+
 showMessage2("Hector", "De Leon");
 showMessage3("Hector", "De Leon", "Dev");
 Functions.SomeAction("Hector", "De Leon", (a) =>
 {
     Console.WriteLine("Soy una expresión lamba" + a);
 });
-// Functions.SomeAction("Hector", "De Leon", showMessage);
-*/
+Functions.SomeAction("Hector", "De Leon", showMessage);
+
 
 #endregion
 
-#region Fun
+#region Func
 
 Func<int> numberRandom = () => new  Random().Next(0, 100);
 Func<int, int> numberRandomLimit = (limit) => new Random().Next(0, limit);
 
-//Console.WriteLine(numberRandom());
-//Console.WriteLine(numberRandomLimit(10000));
+Console.WriteLine(numberRandom());
+Console.WriteLine(numberRandomLimit(10000));
 #endregion
 
 #region Predicate

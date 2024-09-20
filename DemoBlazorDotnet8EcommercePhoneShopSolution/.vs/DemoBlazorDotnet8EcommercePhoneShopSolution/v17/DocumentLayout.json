@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\repos\\DemoBlazorDotnet8EcommercePhoneShopSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DA688D-5094-4024-B879-E074B03BA1DA}|PhoneShopClient\\PhoneShopClient.csproj|e:\\source\\repos\\demoblazordotnet8ecommercephoneshopsolution\\phoneshopclient\\pages\\addorupdateproductcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DA688D-5094-4024-B879-E074B03BA1DA}|PhoneShopClient\\PhoneShopClient.csproj|solutionrelative:phoneshopclient\\pages\\addorupdateproductcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DA688D-5094-4024-B879-E074B03BA1DA}|PhoneShopClient\\PhoneShopClient.csproj|e:\\source\\repos\\demoblazordotnet8ecommercephoneshopsolution\\phoneshopclient\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DA688D-5094-4024-B879-E074B03BA1DA}|PhoneShopClient\\PhoneShopClient.csproj|solutionrelative:phoneshopclient\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA13DE28-EBA6-44EA-8530-898FD2C18F92}|PhoneShopSharedLibrary\\PhoneShopSharedLibrary.csproj|e:\\source\\repos\\demoblazordotnet8ecommercephoneshopsolution\\phoneshopsharedlibrary\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA13DE28-EBA6-44EA-8530-898FD2C18F92}|PhoneShopSharedLibrary\\PhoneShopSharedLibrary.csproj|solutionrelative:phoneshopsharedlibrary\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\source\\repos\\DemoBlazorDotnet8EcommercePhoneShopSolution\\PhoneShopSharedLibrary\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PhoneShopSharedLibrary\\Models\\Product.cs",
+              "ToolTip": "E:\\source\\repos\\DemoBlazorDotnet8EcommercePhoneShopSolution\\PhoneShopSharedLibrary\\Models\\Product.cs",
+              "RelativeToolTip": "PhoneShopSharedLibrary\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:38:57.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\source\\repos\\DemoBlazorDotnet8EcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "PhoneShopClient\\wwwroot\\index.html",
+              "ToolTip": "E:\\source\\repos\\DemoBlazorDotnet8EcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\index.html",
+              "RelativeToolTip": "PhoneShopClient\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T19:33:11.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddOrUpdateProductComponent.razor",
+              "DocumentMoniker": "E:\\source\\repos\\DemoBlazorDotnet8EcommercePhoneShopSolution\\PhoneShopClient\\Pages\\AddOrUpdateProductComponent.razor",
+              "RelativeDocumentMoniker": "PhoneShopClient\\Pages\\AddOrUpdateProductComponent.razor",
+              "ToolTip": "E:\\source\\repos\\DemoBlazorDotnet8EcommercePhoneShopSolution\\PhoneShopClient\\Pages\\AddOrUpdateProductComponent.razor",
+              "RelativeToolTip": "PhoneShopClient\\Pages\\AddOrUpdateProductComponent.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T19:08:22.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
